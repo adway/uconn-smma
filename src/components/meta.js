@@ -2,8 +2,8 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 
 export default ({
-  title = "CSE 5905: Social Media Mining and Analysis",
-  name = "CSE 5905: Social Media Mining and Analysis",
+  title = "CSE 5095: Social Media Mining and Analysis",
+  name = "CSE 5095: Social Media Mining and Analysis",
   description = 'Prof. Gokhale\'s class on social media mining and analysis',
 }) => (
   <Helmet>
