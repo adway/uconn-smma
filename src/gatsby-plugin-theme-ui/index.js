@@ -22,7 +22,7 @@ export default {
   },
   fontSizes: [16, 18, 24, 28, 36, 48, 64, 72, 96, 128],
   sizes: {
-    container: 768,
+    container: 1100,
     wide: 1280,
   },
   text: {
