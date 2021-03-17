@@ -18,13 +18,12 @@ export default () => {
         <Heading as='h2'>
           Class Description
         </Heading>
-        <Text>
-          {/* Description of course goes here */}
-        Would you like to learn cool methods to collect and analyze the content shared on social media platforms to understand people’s opinions, thoughts, and sentiment about contemporary social, political, business or other issues? Would you like to potentially publish in a IEEE Conference, to boost your graduate school application or your job search? This course might just be right for you! 
-        </Text>
-        <Text>
-        This course is structured as a seminar/project-based course where students will read, summarize and present papers, and participate in the classroom discussion based on state-of-the-art research in social media mining. Each student team will conduct a significant research project that analyzes real-life, user-generated data sets capturing major events during the past year including vaccine rollout, cancellation of mask mandates, Asian American hate, etc.  These projects may lead to conference/journal publications, with an additional investment of time and effort. Publications resulting from the past two offerings are listed below.
-        </Text>
+        <p>
+          Would you like to learn interesting methods to collect and analyze the content shared on social media platforms to understand people’s opinions, thoughts, and sentiment about contemporary social, political, business, or other issues? Would you like to potentially publish in an IEEE Conference to boost your graduate school application or your job search? This course might just be right for you! 
+        </p>
+        <p>
+         This class is structured as a seminar/project-based course where students will read, summarize and present papers, and participate in the classroom discussion based on state-of-the-art research in social media mining. Each student team will conduct a significant research project that analyzes real-life, user-generated data sets capturing major events during the past year including vaccine rollout, cancellation of mask mandates, Asian American hate, etc.  These projects may lead to conference/journal publications, with an additional investment of time and effort. Publications resulting from the past two offerings are listed below.
+        </p>
       </Container>
       <Masthead backgroundColor='rgb(238,236,224)' color='text'>
         {/* Publications go here */}
