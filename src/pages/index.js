@@ -19,10 +19,12 @@ export default () => {
           Class Description
         </Heading>
         <Text>
+          {/* Description of course goes here */}
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque enim erat, euismod at ullamcorper ut, finibus nec orci. Integer tempus ut ex vitae lobortis. Proin sagittis vitae orci a consectetur. Morbi posuere consectetur nibh ut vehicula. Aliquam suscipit rhoncus diam sit amet mattis. Nulla viverra at sem et sollicitudin. Suspendisse orci sapien, malesuada et ligula id, ultrices pulvinar neque. In volutpat, justo non egestas rutrum, libero ex lobortis felis, ac tincidunt enim orci id sem. Mauris sagittis nisi non ex sollicitudin, eget faucibus enim hendrerit. Mauris tempor mauris vel lectus gravida, quis porta tortor porta. Nulla consequat, sem et dignissim cursus, enim dui luctus tortor, in egestas justo lectus ut orci. Proin at dolor luctus, blandit velit non, volutpat nisl. Mauris auctor urna sem, sed imperdiet elit posuere nec. Fusce varius scelerisque augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Class aptent taciti sociosqu.
         </Text>
       </Container>
       <Masthead backgroundColor='rgb(238,236,224)' color='text'>
+        {/* Publications go here */}
         <Heading>
           Publications
         </Heading>
@@ -44,6 +46,7 @@ export default () => {
         </ol>
       </Masthead>
       <Container sx={{ px: 3, py: 4 }}>
+        {/* Testimonials go here */}
         <Heading as='h2'>
           Student Testimonials
         </Heading>
