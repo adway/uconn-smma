@@ -31,7 +31,7 @@ export default () => {
           Publications
         </Heading>
         <Heading as="h3">
-          Non Covid:
+          Non Covid Topics:
         </Heading>
         <ol>
           <li> M. Voong, K. Gunda, Predicting the Political Polarity of Tweets Using Supervised Machine Learning, <i> Proc. of 2020 IEEE 44th Annual Computers, Software, and Applications Conference </i>, pp. 1707-1712, July 2020 </li>
@@ -41,12 +41,17 @@ export default () => {
           <li> J. Furuness, A. Mendonca, Identifying Myers-Briggs Personality Type by Analyzing Tweets, (in preparation) </li>
         </ol>
         <Heading as="h3">
-          Fall 2019:
+          Covid Topics:
         </Heading>
         <ol>
-          <li>A. Student, B. Student, C. Student, and S.S. Gokhale, "Doing cool things with twitter," <i>Proc. of Very Prestigious Conference,</i> 2020.</li>
-          <li>A. Student, B. Student, C. Student, and S.S. Gokhale, "Doing cool things with twitter," <i>Proc. of Very Prestigious Conference,</i> 2020.</li>
-          <li>A. Student, B. Student, C. Student, and S.S. Gokhale, "Doing cool things with twitter," <i>Proc. of Very Prestigious Conference,</i> 2020.</li>
+          <li> N. Paul, S. Gokhale, Analysis and Classification of Vaccine Dialogue in the Coronavirus Era, <i> Proc. of IEEE Big Data Workshop on Smart and Connected Health</i>, December 2020</li>
+          <li> S. Gokhale, Monitoring the Perception of Covid-19 Vaccine using Topic Models, <i> Proc. of 13th IEEE International Symposium on Social Computing and Networking </i>, December 2020</li>
+          <li> L. Cerbin, J. DeJesus, J. Warnken, Unmasking the Mask Debate on Social Media, <i> Proc. of 2020 IEEE 44th Annual Computers, Software, and Applications Conference </i> (under review).</li>
+          <li> H. Nguyen, J. Moon, B. Pines, S. Gokhale, Detecting Offensive Content on Social Media During Anti-Lockdown Protests in Michigan, <i> Proc. of 2020 IEEE 44th Annual Computers, Software, and Applications Conference </i> (under review).</li>
+          <li> J. Moon, H. Nguyen, B. Pines, S. Gokhale, Identifying Anti-Government Sentiment on Twitter During Michigan Protests, <i> Proc. of Intl. Conf. on Software Engineering and Knowledge Engineering </i> (under review). </li>
+          <li> J. Moon, H. Nguyen, B. Pines, S. Gokhale, Sarcasm Detection in Politically Motivated Protests, (in preparation) </li> 
+          <li> M. Fahim, S. Ilohm, S. Gokhale, Predicting the Polarity and Nature of Tweets: A Case Study on Proud Boys, (in preparation) </li>
+          <li> A. Skawinski, J. Oviedo, S. Gokhale, Multi-Level Sentiment Analysis of Football Fans in the United Kingdom,” (in preparation) </li>
         </ol>
       </Masthead>
       <Container sx={{ px: 3, py: 4 }}>
@@ -56,9 +61,10 @@ export default () => {
         </Heading>
         
         <ol>
-          <li>"This class was amazing!!!" - <i>A. Student</i></li>
-          <li>"Gained much real-world experience" - <i>B. Student</i></li>
-          <li>"Prof. Gokhale is an excellent instructor!!!" - <i>C. Student</i></li>
+          <li>"She allowed us to learn by doing the paper presentations and the projects rather than just lectures so we could get hands on experience"<i> Fall 2019 </i></li>
+          <li>"I think this is really cool course with great opportunity to learn about data mining and scientific papers"<i>B. Fall 2020 (DL) </i></li>
+          <li>"This course is a great for exercising skills in sentiment analysis, natural language processing, and machine learning. It was a lot of hard work, but I'm glad that I took this course"<i> Fall 2020 (DL) </i></li>
+          <li>"Balancing the freedom of groups to approach the Machine Learning project how they wanted to while also providing enough structure/checkpoints to reach that made it much easier to approach and think about the problems in an efficient way."<i> Fall 2020 (DL) </i></li>
         </ol>
       
       </Container>
