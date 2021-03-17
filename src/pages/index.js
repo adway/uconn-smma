@@ -20,8 +20,10 @@ export default () => {
         </Heading>
         <Text>
           {/* Description of course goes here */}
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque enim erat, euismod at ullamcorper ut, finibus nec orci. Integer tempus ut ex vitae lobortis. Proin sagittis vitae orci a consectetur. Morbi posuere consectetur nibh ut vehicula. Aliquam suscipit rhoncus diam sit amet mattis. Nulla viverra at sem et sollicitudin. Suspendisse orci sapien, malesuada et ligula id, ultrices pulvinar neque. In volutpat, justo non egestas rutrum, libero ex lobortis felis, ac tincidunt enim orci id sem. Mauris sagittis nisi non ex sollicitudin, eget faucibus enim hendrerit. Mauris tempor mauris vel lectus gravida, quis porta tortor porta. Nulla consequat, sem et dignissim cursus, enim dui luctus tortor, in egestas justo lectus ut orci. Proin at dolor luctus, blandit velit non, volutpat nisl. Mauris auctor urna sem, sed imperdiet elit posuere nec. Fusce varius scelerisque augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Class aptent taciti sociosqu.
-        </Text>
+        Would you like to learn cool methods to collect and analyze the content shared on social media platforms to understand people’s opinions, thoughts, and sentiment about contemporary social, political, business or other issues? Would you like to potentially publish in a IEEE Conference, to boost your graduate school application or your job search? This course might just be right for you! 
+ 
+        This course is structured as a seminar/project-based course where students will read, summarize and present papers, and participate in the classroom discussion based on state-of-the-art research in social media mining. Each student team will conduct a significant research project that analyzes real-life, user-generated data sets capturing major events during the past year including vaccine rollout, cancellation of mask mandates, Asian American hate, etc.  These projects may lead to conference/journal publications, with an additional investment of time and effort. Publications resulting from the past two offerings are listed below.
+
       </Container>
       <Masthead backgroundColor='rgb(238,236,224)' color='text'>
         {/* Publications go here */}
