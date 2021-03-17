@@ -8,7 +8,7 @@ export default () => {
     <div>
       <Masthead backgroundColor='uconn' color='white'>
         <Heading as="h1" sx={{  mb: 3 }}>
-          CSE WXYZ: Social Media Analysis and Mining
+          CSE 5095: Social Media Mining and Analysis
         </Heading>
         <Text sx={{ fontSize: 2 }}>
           Prof. Swapna S. Gokhale
