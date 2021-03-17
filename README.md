@@ -1,3 +1,7 @@
-# Saint John's COVID-19 Plan
+# CSE 5905 Site
 
-Explaining Saint John's COVID-19 response plan to students and getting feedback from them.
+Go to src/pages/index.js and look for the places to add stuff.
+When finished:
+git add .
+git commit -am "Message"
+git push origin main
