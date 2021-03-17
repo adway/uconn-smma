@@ -63,8 +63,8 @@ export default () => {
         
         <ol>
           <li>"She allowed us to learn by doing the paper presentations and the projects rather than just lectures so we could get hands on experience"<i> Fall 2019 </i></li>
-          <li>"I think this is really cool course with great opportunity to learn about data mining and scientific papers"<i>B. Fall 2020 (DL) </i></li>
-          <li>"This course is a great for exercising skills in sentiment analysis, natural language processing, and machine learning. It was a lot of hard work, but I'm glad that I took this course"<i> Fall 2020 (DL) </i></li>
+          <li>"I think this is really cool course with great opportunity to learn about data mining and scientific papers"<i> Fall 2020 (DL) </i></li>
+          <li>"This course is a great for exercising skills in sentiment analysis, natural language processing, and machine learning. It was a lot of hard work, but I'm glad that I took this course."<i> Fall 2020 (DL) </i></li>
           <li>"Balancing the freedom of groups to approach the Machine Learning project how they wanted to while also providing enough structure/checkpoints to reach that made it much easier to approach and think about the problems in an efficient way."<i> Fall 2020 (DL) </i></li>
         </ol>
       
