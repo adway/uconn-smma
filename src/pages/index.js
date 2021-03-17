@@ -32,7 +32,7 @@ export default () => {
           Publications
         </Heading>
         <Heading as="h3">
-          Non Covid Topics:
+          Non COVID-19 Topics:
         </Heading>
         <ol>
           <li> M. Voong, K. Gunda, Predicting the Political Polarity of Tweets Using Supervised Machine Learning, <i> Proc. of 2020 IEEE 44th Annual Computers, Software, and Applications Conference </i>, pp. 1707-1712, July 2020 </li>
@@ -42,7 +42,7 @@ export default () => {
           <li> J. Furuness, A. Mendonca, Identifying Myers-Briggs Personality Type by Analyzing Tweets, (in preparation) </li>
         </ol>
         <Heading as="h3">
-          Covid Topics:
+          COVID-19 Topics:
         </Heading>
         <ol>
           <li> N. Paul, S. Gokhale, Analysis and Classification of Vaccine Dialogue in the Coronavirus Era, <i> Proc. of IEEE Big Data Workshop on Smart and Connected Health</i>, December 2020</li>
