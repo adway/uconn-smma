@@ -31,12 +31,14 @@ export default () => {
           Publications
         </Heading>
         <Heading as="h3">
-          Fall 2020:
+          Non Covid:
         </Heading>
         <ol>
-          <li>A. Student, B. Student, C. Student, and S.S. Gokhale, "Doing cool things with twitter," <i>Proc. of Very Prestigious Conference,</i> 2020.</li>
-          <li>A. Student, B. Student, C. Student, and S.S. Gokhale, "Doing cool things with twitter," <i>Proc. of Very Prestigious Conference,</i> 2020.</li>
-          <li>A. Student, B. Student, C. Student, and S.S. Gokhale, "Doing cool things with twitter," <i>Proc. of Very Prestigious Conference,</i> 2020.</li>
+          <li> M. Voong, K. Gunda, Predicting the Political Polarity of Tweets Using Supervised Machine Learning, <i> Proc. of 2020 IEEE 44th Annual Computers, Software, and Applications Conference </i>, pp. 1707-1712, July 2020 </li>
+          <li> A. Mondal, S. Gokhale, Mining Emotions on Plutchik's Wheel, <i> Proc. of 2020 Seventh International Conference on Social Networks Analysis, Management and Security </i>, December 2020. </li>
+          <li> H. Khan, F. Yu, A. Sinha, S. Gokhale, <i> A Practical and Parsimonious Approach to Detecting Offensive Speech, Proc. of Intl. Conf. on Computing, Communications, and Intelligent Systems </i>, February 2021.</li>
+          <li> A. Mondal, S. Gokhale, Multi-Label Classification of Parrott’s Emotions, <i> Proc. of Intl. Conf. on Software Engineering and Knowledge Engineering </i> (under review) </li>
+          <li> J. Furuness, A. Mendonca, Identifying Myers-Briggs Personality Type by Analyzing Tweets, (in preparation) </li>
         </ol>
         <Heading as="h3">
           Fall 2019:
